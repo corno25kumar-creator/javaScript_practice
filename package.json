@@ -4,7 +4,7 @@
   "description": "",
   "main": "object.js",
   "scripts": {
-    "dev":"nodemon object.js"
+    "dev":"nodemon callback.js"
   },
   "keywords": [],
   "type": "module",
